@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/food-delivery/static/css/main.c39627f9.css",
+    "main.js": "/food-delivery/static/js/main.e636b922.js",
+    "static/media/c3.png": "/food-delivery/static/media/c3.55f83414f33f66456b35.png",
+    "static/media/fi1.png": "/food-delivery/static/media/fi1.3f43e51b6058550d1f44.png",
+    "static/media/f1.png": "/food-delivery/static/media/f1.c52686695ee9a5c4cd0d.png",
+    "static/media/i1.png": "/food-delivery/static/media/i1.3d9b129d2c5432c6f1fb.png",
+    "static/media/avatar2.png": "/food-delivery/static/media/avatar2.9f707e7b6f2e3464c893.png",
+    "static/media/heroBg.png": "/food-delivery/static/media/heroBg.c43c4862422e70d88698.png",
+    "static/media/delivery.png": "/food-delivery/static/media/delivery.bf9130a0962fbe091abc.png",
+    "index.html": "/food-delivery/index.html",
+    "main.c39627f9.css.map": "/food-delivery/static/css/main.c39627f9.css.map",
+    "main.e636b922.js.map": "/food-delivery/static/js/main.e636b922.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c39627f9.css",
+    "static/js/main.e636b922.js"
+  ]
+}
