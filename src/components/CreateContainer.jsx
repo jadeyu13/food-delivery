@@ -110,7 +110,7 @@ function CreateContainer() {
         setFields(true);
         setMsg('Data uploaded successfully 😊');
         clearData();
-        setAlertStatus('seccess');
+        setAlertStatus('success');
         setTimeout(() => {
           setFields(false);
         }, 4000);

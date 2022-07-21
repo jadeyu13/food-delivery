@@ -8,8 +8,8 @@ const HomeContainer = () => {
   return (
     <section className="grid grid-cols-1 md:grid-cols-2 gap-2 w-full" id="home">
       <div className="py-2 flex-1 flex flex-col items-start justify-center gap-6">
-        <div className="flex items-center gap-2 justify-center bg-amber-50 px-4 py-1 rounded-full">
-          <p className="text-base text-amber-600 font-semibold">
+        <div className="flex items-center gap-2 justify-center bg-amber-400 px-4 py-1 rounded-full">
+          <p className="text-base text-amber-700 font-semibold">
             Bike Delivery
           </p>
           <div className="w-8 h-8 rounded-full overflow-hidden drop-shadow-xl">
@@ -24,7 +24,7 @@ const HomeContainer = () => {
         <p className="text-[2.5rem] lg:text-[4.25rem] font-bold tracking-wide text-headingColor">
           The Fastest Delivery in
           <span className="text-amber-600 text-[3rem] md:text-[5rem]">
-            Your City
+            {" "}Your City
           </span>
         </p>
 
